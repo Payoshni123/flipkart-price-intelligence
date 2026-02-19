@@ -9,3 +9,15 @@ This project is a Data Engineering Capstone that scrapes product data from Flipk
 
 **Next Step:**  
 ➡️ Create the first Scrapy spider for the *Mobiles* category.
+
+
+
+overview:
+
+project: flipkart price intelligence streaming DE capstone
+
+tech stack: scrapy → kafka → postgres → airflow → snowflake → powerbi
+
+goal: production-grade pipeline + dashboard in 90 days
+
+
